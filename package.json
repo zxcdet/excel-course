@@ -1,0 +1,24 @@
+{
+  "name": "excel-course",
+  "version": "1.0.0",
+  "description": "Pure Javascript Excel Application",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zxcdet/excel-course.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "excel"
+  ],
+  "author": "Mykhailo Kisil <jallyface@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zxcdet/excel-course/issues"
+  },
+  "homepage": "https://github.com/zxcdet/excel-course#readme"
+}
